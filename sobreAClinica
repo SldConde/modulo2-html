@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neurocirurgia - Busque agora!</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+
+            <h1><b>MENU</b></h1>
+
+            <ul>
+                <li><a href="quemSomos.html" 
+                    target="_blank" >Quem somos</a>
+                </li>
+                <br>
+                <li><a href="sobre_a_Clinica.html" 
+                    target="_self" >Sobre a clinica</a>
+                </li>
+                <br>
+                <li><a href="horarioAtendimento.html" 
+                    target="_blank" >Horario de atendimento</a>
+                </li>
+                <br>
+                <li><a href="contatos.html" 
+                    target="_blank" >Contato</a>
+                </li>
+            </ul>
+            
+        </div>
+
+        <div class="main">
+            <div class="header">
+                
+                <!-- Aqui vai o seu header -->
+                <img src="https://amb.org.br/wp-content/themes/amb/assets/img/logo-amb.png" 
+                alt="banner"
+                width="900" height="150">
+
+            </div>
+    
+            <div class="content">
+                
+                <!-- Aqui vai o seu conteúdo -->
+                <h1>Sobre a clínica:</h1>
+                <hr/>
+                <p>Lorem ipsum dolor sit amet. Sit distinctio dolor sed aliquam similique ut placeat quos qui sunt doloremque a suscipit beatae quo nesciunt nihil. Sit cumque fugiat est laborum maxime sed totam voluptatem ut ratione nisi est doloribus repudiandae nam aliquid consequuntur et dolor consectetur. Sit veniam totam et dolor praesentium eos dolore quisquam qui consequuntur asperiores qui animi rerum. Ut amet molestiae et enim tempore ea libero magnam.  
+                <br>  
+                <br>  
+                
+                    <img src="http://cremepe.org.br/wp-content/uploads/2015/08/IMG_0937.jpg" alt="" width="250" height="100">
+
+                    <img src="http://cremepe.org.br/wp-content/uploads/2015/08/IMG_0937.jpg" alt="" width="250" height="100">
+
+                    <img src="http://cremepe.org.br/wp-content/uploads/2015/08/IMG_0937.jpg" alt="" width="250" height="100">
+            </p>
+                    
+            </div>
+    
+            <div class="footer">
+                <!-- Aqui vai o seu rodapé -->
+                <br>
+                <br>
+                <h4><sup>WF</sup>2022 Responsável técnico: Wagner Ferreira - CRM: 123.123</h4>  
+            </div>
+        </div>
+    </div>
+</body>
+</html>
